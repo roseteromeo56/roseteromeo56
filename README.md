@@ -1,5 +1,4 @@
 ![logo-etherscan](https://github.com/user-attachments/assets/902d71b1-f89f-43df-9198-0f96269359da)
-Owner Romeo Rosete @
 
 https://github.com/user-attachments/assets/4df8204a-48fc-46e4-b805-28649411c1f4
 
